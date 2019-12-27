@@ -107,3 +107,23 @@ p{font-size: 1em; color: #777}
 .sobre p{
     text-align: justify;
 }
+.onde-estamos{
+    width: 30%;
+    float: right;
+    padding: 10px 20px;
+}
+.onde-estamos h2{
+    margin-bottom: 5px;
+}
+.onde-estamos iframe{
+    width: 100%;
+    height: 250px;
+    margin: 20px 0;
+}
+.onde-estamos li{
+    color: #777;
+    margin-bottom: 10px;
+}
+.onde-estamos i{
+    margin-right: 5px;
+}
